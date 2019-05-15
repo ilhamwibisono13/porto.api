@@ -4,6 +4,18 @@
       "judul":"PKM (Program Kreativitas Mahasiswa)",
       "Keterangan":"Internal UGM",
       "Tahun":"2019"
-    }
+    },
+    {
+     "sekolah":"SD Negeri Kalirong 2"
+      "tahun-ajaran":"2004-2010"
+    },
+    {
+     "sekolah":"SMP Negeri Grogol 1"
+      "tahun-ajaran":"2011-2014"
+    },
+    {
+     "sekolah":"SMA Negeri Kediri 1"
+      "tahun-ajaran":"2014-2017"
+    }  
   ]
 }
